@@ -48,7 +48,7 @@ class _EditProfileScreenState extends State<EditProfileScreen> {
                 alignment: Alignment.center,
                 children: [
                   const CircleAvatar(
-                    radius: 44,
+                    radius: 45,
                     backgroundImage: AssetImage(
                       "assets/images/profile.png",
                     ),
